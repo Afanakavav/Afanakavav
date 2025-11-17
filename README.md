@@ -29,10 +29,10 @@ I'm an **AI Engineer** based in Dublin, passionate about building **GPT-powered 
 - Video Generation with AI tools
 
 ### 🤝 Let's Connect!
-- 📧 **Email:** [fra.perone@alice.it](mailto:fra.perone@alice.it)
+- 📧 **Email:** [francesco@apheron.io](mailto:francesco@apheron.io)
 - 🌍 **Website:** [apheron.io](http://apheron.io/)
 - 💼 **Open to:** Collaboration, AI projects, startup opportunities
 
 ---
 
-✨ **Fun fact:** I'm a big **Juventus fan** ⚫⚪ and I explore Dublin by bike 🚴
+✨ **Fun fact:** I'm a big **Juventus fan** and an **Italian chef**
