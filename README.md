@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey there! I'm Francesco Afanakavav
 
-<!--
-**Afanakavav/Afanakavav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Engineer & Product Builder
 
-Here are some ideas to get you started:
+I'm an **AI Engineer** based in Dublin, passionate about building **GPT-powered automation**, **SaaS products**, and **real-world AI prototypes**. I love turning complex ideas into scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 What I Do
+- 🤖 Design & build **AI-powered applications** (GPT, LLMs, automation)
+- 💼 Create **SaaS integrations** and **production-ready AI systems**
+- 📊 Develop full-stack solutions with **JavaScript/TypeScript** & **Firebase**
+- 🌐 Build digital products from concept to production
+- 🎨 Prototyping & rapid experimentation with emerging AI tools
+
+### 💻 Tech Stack
+**Languages:** JavaScript, TypeScript, HTML/CSS
+**Frameworks & Tools:** Firebase, React, Node.js, Git
+**AI/ML:** ChatGPT API, LLMs, Prompt Engineering, AI Automation
+**Design & Productivity:** Figma, GitHub, Google Suite, Asana
+
+### 📌 Featured Projects
+- **[apheron-job-tracker](https://github.com/Afanakavav/apheron-job-tracker)** - AI-powered job application tracker with CV management
+- **[apheron-homepage](https://github.com/Afanakavav/apheron-homepage)** - Digital Strategy & AI Consulting platform
+- **[italian-lessons-dublin](https://github.com/Afanakavav/italian-lessons-dublin)** - Interactive landing page for Italian lessons
+
+### 🌱 Currently Learning
+- Application Performance Monitoring (APM)
+- GenAI Business Applications & Scaling
+- Domain Management & Web Infrastructure
+- Video Generation with AI tools
+
+### 🤝 Let's Connect!
+- 📧 **Email:** [fra.perone@alice.it](mailto:fra.perone@alice.it)
+- 🌍 **Website:** [apheron.io](http://apheron.io/)
+- 💼 **Open to:** Collaboration, AI projects, startup opportunities
+
+---
+
+✨ **Fun fact:** I'm a big **Juventus fan** ⚫⚪ and I explore Dublin by bike 🚴
